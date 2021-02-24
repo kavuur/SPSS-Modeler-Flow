@@ -57,10 +57,10 @@ All Developers interested in Artificial Intelligence are welcome to attend the w
 
 +++ {"slideshow": {"slide_type": "subslide"}}
 
-🎙️ Speakers
+🎙️ Speakers <br />
 - Youssef Alnemr, IBM Developer Advocate, Egypt -
 (https://www.linkedin.com/in/youssef-alnemr-01a022156/)
-- Mridul Bhandari, IBM Developer Advocate, U.A.E - (https://lnkd.in/drsgBWn)
+- Mridul Bhandari, IBM Developer Advocate, U.A.E - (https://www.linkedin.com/in/mridul-bhandari/)
 
 🎈 Prerequisites <br />
 ☁ Register for a free IBM Cloud Account: https://ibm.biz/BdfE3D <br/>
@@ -69,10 +69,10 @@ All Developers interested in Artificial Intelligence are welcome to attend the w
 🍉 Register for the live stream and replay on Crowdcast: <br/>
 https://www.crowdcast.io/e/build-your-machine
 
-👩‍💻Resources 
-- GitHub Repository - https://ibm.biz/MAXTutorial
-- Workshop Slides - https://ibm.biz/MAXResources
-- Survey - https://ibm.biz/MAXSurvey
+👩‍💻Resources <br />
+- GitHub Repository - https://github.com/mridulrb/SPSS-Modeler-Flow
+- Workshop Slides - https://mridulrb.github.io/SPSS-Modeler-Flow/#/
+- Survey - https://www.surveygizmo.com/s3/6083679/bdddd2f3fee2
 - Meetup page - https://www.meetup.com/IBM-Cloud-MEA/events/ 
 
 +++ {"slideshow": {"slide_type": "slide"}}
