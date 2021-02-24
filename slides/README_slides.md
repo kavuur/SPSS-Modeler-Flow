@@ -11,7 +11,7 @@ jupyter:
     language: python
     name: python3
 ---
-
+<!-- 
 +++ {"slideshow": {"slide_type": "slide"}}
 
 # Tutorial slides
@@ -40,7 +40,130 @@ jupyter:
 - List your slide files in a markdown, with a brief description.
 
 
++++ {"slideshow": {"slide_type": "slide"}} 
+-->
+
+
+**Details** <br />
+Learn about the Model Asset Exchange (MAX) where you can deploy your model locally as a Microservice on Docker, or IBM Cloud.
+
+
+🎓 What will you learn? <br />
+- What is the Model Asset Exchange (MAX)
+- How can you deploy a Deep Learning model.
+- How does the model get deployed and trained over a Container.
+- We'll conclude with an interactive lab where we will deploy a model from MAX.
+
+👩‍💻 Who should attend? <br />
+Developers and those interested in OpenShift, and IBM Watson Discovery.
+
++++ {"slideshow": {"slide_type": "subslide"}}
+
+🎙️ Speakers
+- Mridul Bhandari, IBM Developer Advocate, U.A.E - (https://lnkd.in/drsgBWn)
+- Mostafa Abdelaleem, IBM Developer Advocate, Egypt -
+(https://lnkd.in/dHBq67m)
+
+🎈 Prerequisites <br />
+1) Sign up to IBM Cloud using this link: https://ibm.biz/MAXDeepLearning <br />
+2) Register for the live event or watch the recording: https://www.crowdcast.io/e/maxdeeplearning
+
+👩‍💻Resources 
+- GitHub Repository - https://ibm.biz/MAXTutorial
+- Workshop Slides - https://ibm.biz/MAXResources
+- Survey - https://ibm.biz/MAXSurvey
+- Meetup page - https://www.meetup.com/IBM-Cloud-MEA/events/ 
+
 +++ {"slideshow": {"slide_type": "slide"}}
+
+![center](https://github.com/mridulrb/Deep-Learning-on-Model-Asset-Exchange/blob/master/images/slide_images/Slide1.jpeg?raw=true)
+
++++ {"slideshow": {"slide_type": "slide"}}
+
+![center](https://github.com/mridulrb/Deep-Learning-on-Model-Asset-Exchange/blob/master/images/slide_images/Slide2.jpeg?raw=true)
+
++++ {"slideshow": {"slide_type": "slide"}}
+
+![center](https://github.com/mridulrb/Deep-Learning-on-Model-Asset-Exchange/blob/master/images/slide_images/Slide3.jpeg?raw=true)
+
++++ {"slideshow": {"slide_type": "slide"}}
+
+![center](https://github.com/mridulrb/Deep-Learning-on-Model-Asset-Exchange/blob/master/images/slide_images/Slide4.jpeg?raw=true)
+
++++ {"slideshow": {"slide_type": "slide"}}
+
+![center](https://github.com/mridulrb/Deep-Learning-on-Model-Asset-Exchange/blob/master/images/slide_images/Slide5.jpeg?raw=true)
+
++++ {"slideshow": {"slide_type": "slide"}}
+
+![center](https://github.com/mridulrb/Deep-Learning-on-Model-Asset-Exchange/blob/master/images/slide_images/Slide6.jpeg?raw=true)
+
++++ {"slideshow": {"slide_type": "slide"}}
+
+![center](https://github.com/mridulrb/Deep-Learning-on-Model-Asset-Exchange/blob/master/images/slide_images/Slide7.jpeg?raw=true)
+
++++ {"slideshow": {"slide_type": "slide"}}
+
+![center](https://github.com/mridulrb/Deep-Learning-on-Model-Asset-Exchange/blob/master/images/slide_images/Slide8.jpeg?raw=true)
+
++++ {"slideshow": {"slide_type": "slide"}}
+
+![center](https://github.com/mridulrb/Deep-Learning-on-Model-Asset-Exchange/blob/master/images/slide_images/Slide9.jpeg?raw=true)
+
++++ {"slideshow": {"slide_type": "slide"}}
+
+![center](https://github.com/mridulrb/Deep-Learning-on-Model-Asset-Exchange/blob/master/images/slide_images/Slide10.jpeg?raw=true)
+
++++ {"slideshow": {"slide_type": "slide"}}
+
+![center](https://github.com/mridulrb/Deep-Learning-on-Model-Asset-Exchange/blob/master/images/slide_images/Slide11.jpeg?raw=true)
+
++++ {"slideshow": {"slide_type": "slide"}}
+
+![center](https://github.com/mridulrb/Deep-Learning-on-Model-Asset-Exchange/blob/master/images/slide_images/Slide12.jpeg?raw=true)
+
++++ {"slideshow": {"slide_type": "slide"}}
+
+![center](https://github.com/mridulrb/Deep-Learning-on-Model-Asset-Exchange/blob/master/images/slide_images/Slide13.jpeg?raw=true)
+
++++ {"slideshow": {"slide_type": "slide"}}
+
+![center](https://github.com/mridulrb/Deep-Learning-on-Model-Asset-Exchange/blob/master/images/slide_images/Slide14.jpeg?raw=true)
+
++++ {"slideshow": {"slide_type": "slide"}}
+
+![center](https://github.com/mridulrb/Deep-Learning-on-Model-Asset-Exchange/blob/master/images/slide_images/Slide15.jpeg?raw=true)
+
++++ {"slideshow": {"slide_type": "slide"}}
+
+![center](https://github.com/mridulrb/Deep-Learning-on-Model-Asset-Exchange/blob/master/images/slide_images/Slide16.jpeg?raw=true)
+
++++ {"slideshow": {"slide_type": "slide"}}
+
+![center](https://github.com/mridulrb/Deep-Learning-on-Model-Asset-Exchange/blob/master/images/slide_images/Slide17.jpeg?raw=true)
+
++++ {"slideshow": {"slide_type": "slide"}}
+
+![center](https://github.com/mridulrb/Deep-Learning-on-Model-Asset-Exchange/blob/master/images/slide_images/Slide18.jpeg?raw=true)
+
++++ {"slideshow": {"slide_type": "slide"}}
+
+![center](https://github.com/mridulrb/Deep-Learning-on-Model-Asset-Exchange/blob/master/images/slide_images/Slide19.jpeg?raw=true)
+
++++ {"slideshow": {"slide_type": "slide"}}
+
+![center](https://github.com/mridulrb/Deep-Learning-on-Model-Asset-Exchange/blob/master/images/slide_images/Slide20.jpeg?raw=true)
+
++++ {"slideshow": {"slide_type": "slide"}}
+
+![center](https://github.com/mridulrb/Deep-Learning-on-Model-Asset-Exchange/blob/master/images/slide_images/Slide21.jpeg?raw=true)
+
++++ {"slideshow": {"slide_type": "slide"}}
+
+![center](https://github.com/mridulrb/Deep-Learning-on-Model-Asset-Exchange/blob/master/images/slide_images/Slide22.jpeg?raw=true)
+
++++ {"slideshow": {"slide_type": "slide"}}
+
 ## License
 
 **Recommend** that slides be shared under a [CC-BY](https://creativecommons.org/licenses/by/4.0/) license.
