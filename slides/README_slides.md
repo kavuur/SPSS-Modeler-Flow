@@ -72,7 +72,7 @@ https://www.crowdcast.io/e/build-your-machine
 👩‍💻Resources <br />
 - GitHub Repository - https://github.com/mridulrb/SPSS-Modeler-Flow
 - Workshop Slides - https://mridulrb.github.io/SPSS-Modeler-Flow/#/
-- Survey - https://www.surveygizmo.com/s3/6083679/bdddd2f3fee2
+- Survey - ibm.biz/Bdfsbc
 - Meetup page - https://www.meetup.com/IBM-Cloud-MEA/events/ 
 
 +++ {"slideshow": {"slide_type": "slide"}}
@@ -143,25 +143,6 @@ https://www.crowdcast.io/e/build-your-machine
 
 ![center](https://github.com/mridulrb/SPSS-Modeler-Flow/blob/main/images/slide_images/Slide17.jpeg?raw=true)
 
-+++ {"slideshow": {"slide_type": "slide"}}
-
-![center](https://github.com/mridulrb/SPSS-Modeler-Flow/blob/main/images/slide_images/Slide18.jpeg?raw=true)
-
-+++ {"slideshow": {"slide_type": "slide"}}
-
-![center](https://github.com/mridulrb/SPSS-Modeler-Flow/blob/main/images/slide_images/Slide19.jpeg?raw=true)
-
-+++ {"slideshow": {"slide_type": "slide"}}
-
-![center](https://github.com/mridulrb/SPSS-Modeler-Flow/blob/main/images/slide_images/Slide20.jpeg?raw=true)
-
-+++ {"slideshow": {"slide_type": "slide"}}
-
-![center](https://github.com/mridulrb/SPSS-Modeler-Flow/blob/main/images/slide_images/Slide21.jpeg?raw=true)
-
-+++ {"slideshow": {"slide_type": "slide"}}
-
-![center](https://github.com/mridulrb/SPSS-Modeler-Flow/blob/main/images/slide_images/Slide22.jpeg?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
