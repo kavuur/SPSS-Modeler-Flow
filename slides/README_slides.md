@@ -70,7 +70,7 @@ All Developers interested in Artificial Intelligence are welcome to attend the w
 https://www.crowdcast.io/e/build-your-machine
 
 👩‍💻Resources <br />
-- GitHub Repository - https://github.com/mridulrb/SPSS-Modeler-Flow
+- GitHub Repository - https://ibm.biz/ModelerFlowsLab
 - Workshop Slides - https://mridulrb.github.io/SPSS-Modeler-Flow/#/
 - Survey - https://ibm.biz/Bdfsbc
 - Meetup page - https://www.meetup.com/IBM-Cloud-MEA/events/ 
