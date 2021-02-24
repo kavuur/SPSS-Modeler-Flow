@@ -44,29 +44,30 @@ jupyter:
 -->
 
 
-**Details** <br />
-Learn about the Model Asset Exchange (MAX) where you can deploy your model locally as a Microservice on Docker, or IBM Cloud.
-
+**🌟 Overview** <br />
+In this workshop you will learn how to graphically build and evaluate machine learning models by using the SPSS Modeler flow feature in IBM® Watson™ Studio. Watson Studio and SPSS Modeler provide us with an interactive environment for quickly building machine learning pipelines that flow data from ingestion to transformation to model building and evaluation, without needing any code.
 
 🎓 What will you learn? <br />
-- What is the Model Asset Exchange (MAX)
-- How can you deploy a Deep Learning model.
-- How does the model get deployed and trained over a Container.
-- We'll conclude with an interactive lab where we will deploy a model from MAX.
+- What is SPSS Modeler and how it is used
+- How to explore Data Analysis
+- What are the different types of algorithms used
 
 👩‍💻 Who should attend? <br />
-Developers and those interested in OpenShift, and IBM Watson Discovery.
+All Developers interested in Artificial Intelligence are welcome to attend the webinar!
 
 +++ {"slideshow": {"slide_type": "subslide"}}
 
 🎙️ Speakers
+- Youssef Alnemr, IBM Developer Advocate, Egypt -
+(https://www.linkedin.com/in/youssef-alnemr-01a022156/)
 - Mridul Bhandari, IBM Developer Advocate, U.A.E - (https://lnkd.in/drsgBWn)
-- Mostafa Abdelaleem, IBM Developer Advocate, Egypt -
-(https://lnkd.in/dHBq67m)
 
 🎈 Prerequisites <br />
-1) Sign up to IBM Cloud using this link: https://ibm.biz/MAXDeepLearning <br />
-2) Register for the live event or watch the recording: https://www.crowdcast.io/e/maxdeeplearning
+☁ Register for a free IBM Cloud Account: https://ibm.biz/BdfE3D <br/>
+☁ Register for the event from here: https://www.crowdcast.io/e/build-your-machine
+
+🍉 Register for the live stream and replay on Crowdcast: <br/>
+https://www.crowdcast.io/e/build-your-machine
 
 👩‍💻Resources 
 - GitHub Repository - https://ibm.biz/MAXTutorial
@@ -76,91 +77,91 @@ Developers and those interested in OpenShift, and IBM Watson Discovery.
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![center](https://github.com/mridulrb/Deep-Learning-on-Model-Asset-Exchange/blob/master/images/slide_images/Slide1.jpeg?raw=true)
+![center](https://github.com/mridulrb/SPSS-Modeler-Flow/blob/main/images/slide_images/Slide1.jpeg?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![center](https://github.com/mridulrb/Deep-Learning-on-Model-Asset-Exchange/blob/master/images/slide_images/Slide2.jpeg?raw=true)
+![center](https://github.com/mridulrb/SPSS-Modeler-Flow/blob/main/images/slide_images/Slide2.jpeg?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![center](https://github.com/mridulrb/Deep-Learning-on-Model-Asset-Exchange/blob/master/images/slide_images/Slide3.jpeg?raw=true)
+![center](https://github.com/mridulrb/SPSS-Modeler-Flow/blob/main/images/slide_images/Slide3.jpeg?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![center](https://github.com/mridulrb/Deep-Learning-on-Model-Asset-Exchange/blob/master/images/slide_images/Slide4.jpeg?raw=true)
+![center](https://github.com/mridulrb/SPSS-Modeler-Flow/blob/main/images/slide_images/Slide4.jpeg?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![center](https://github.com/mridulrb/Deep-Learning-on-Model-Asset-Exchange/blob/master/images/slide_images/Slide5.jpeg?raw=true)
+![center](https://github.com/mridulrb/SPSS-Modeler-Flow/blob/main/images/slide_images/Slide5.jpeg?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![center](https://github.com/mridulrb/Deep-Learning-on-Model-Asset-Exchange/blob/master/images/slide_images/Slide6.jpeg?raw=true)
+![center](https://github.com/mridulrb/SPSS-Modeler-Flow/blob/main/images/slide_images/Slide6.jpeg?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![center](https://github.com/mridulrb/Deep-Learning-on-Model-Asset-Exchange/blob/master/images/slide_images/Slide7.jpeg?raw=true)
+![center](https://github.com/mridulrb/SPSS-Modeler-Flow/blob/main/images/slide_images/Slide7.jpeg?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![center](https://github.com/mridulrb/Deep-Learning-on-Model-Asset-Exchange/blob/master/images/slide_images/Slide8.jpeg?raw=true)
+![center](https://github.com/mridulrb/SPSS-Modeler-Flow/blob/main/images/slide_images/Slide8.jpeg?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![center](https://github.com/mridulrb/Deep-Learning-on-Model-Asset-Exchange/blob/master/images/slide_images/Slide9.jpeg?raw=true)
+![center](https://github.com/mridulrb/SPSS-Modeler-Flow/blob/main/images/slide_images/Slide9.jpeg?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![center](https://github.com/mridulrb/Deep-Learning-on-Model-Asset-Exchange/blob/master/images/slide_images/Slide10.jpeg?raw=true)
+![center](https://github.com/mridulrb/SPSS-Modeler-Flow/blob/main/images/slide_images/Slide10.jpeg?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![center](https://github.com/mridulrb/Deep-Learning-on-Model-Asset-Exchange/blob/master/images/slide_images/Slide11.jpeg?raw=true)
+![center](https://github.com/mridulrb/SPSS-Modeler-Flow/blob/main/images/slide_images/Slide11.jpeg?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![center](https://github.com/mridulrb/Deep-Learning-on-Model-Asset-Exchange/blob/master/images/slide_images/Slide12.jpeg?raw=true)
+![center](https://github.com/mridulrb/SPSS-Modeler-Flow/blob/main/images/slide_images/Slide12.jpeg?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![center](https://github.com/mridulrb/Deep-Learning-on-Model-Asset-Exchange/blob/master/images/slide_images/Slide13.jpeg?raw=true)
+![center](https://github.com/mridulrb/SPSS-Modeler-Flow/blob/main/images/slide_images/Slide13.jpeg?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![center](https://github.com/mridulrb/Deep-Learning-on-Model-Asset-Exchange/blob/master/images/slide_images/Slide14.jpeg?raw=true)
+![center](https://github.com/mridulrb/SPSS-Modeler-Flow/blob/main/images/slide_images/Slide14.jpeg?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![center](https://github.com/mridulrb/Deep-Learning-on-Model-Asset-Exchange/blob/master/images/slide_images/Slide15.jpeg?raw=true)
+![center](https://github.com/mridulrb/SPSS-Modeler-Flow/blob/main/images/slide_images/Slide15.jpeg?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![center](https://github.com/mridulrb/Deep-Learning-on-Model-Asset-Exchange/blob/master/images/slide_images/Slide16.jpeg?raw=true)
+![center](https://github.com/mridulrb/SPSS-Modeler-Flow/blob/main/images/slide_images/Slide16.jpeg?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![center](https://github.com/mridulrb/Deep-Learning-on-Model-Asset-Exchange/blob/master/images/slide_images/Slide17.jpeg?raw=true)
+![center](https://github.com/mridulrb/SPSS-Modeler-Flow/blob/main/images/slide_images/Slide17.jpeg?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![center](https://github.com/mridulrb/Deep-Learning-on-Model-Asset-Exchange/blob/master/images/slide_images/Slide18.jpeg?raw=true)
+![center](https://github.com/mridulrb/SPSS-Modeler-Flow/blob/main/images/slide_images/Slide18.jpeg?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![center](https://github.com/mridulrb/Deep-Learning-on-Model-Asset-Exchange/blob/master/images/slide_images/Slide19.jpeg?raw=true)
+![center](https://github.com/mridulrb/SPSS-Modeler-Flow/blob/main/images/slide_images/Slide19.jpeg?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![center](https://github.com/mridulrb/Deep-Learning-on-Model-Asset-Exchange/blob/master/images/slide_images/Slide20.jpeg?raw=true)
+![center](https://github.com/mridulrb/SPSS-Modeler-Flow/blob/main/images/slide_images/Slide20.jpeg?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![center](https://github.com/mridulrb/Deep-Learning-on-Model-Asset-Exchange/blob/master/images/slide_images/Slide21.jpeg?raw=true)
+![center](https://github.com/mridulrb/SPSS-Modeler-Flow/blob/main/images/slide_images/Slide21.jpeg?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![center](https://github.com/mridulrb/Deep-Learning-on-Model-Asset-Exchange/blob/master/images/slide_images/Slide22.jpeg?raw=true)
+![center](https://github.com/mridulrb/SPSS-Modeler-Flow/blob/main/images/slide_images/Slide22.jpeg?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
