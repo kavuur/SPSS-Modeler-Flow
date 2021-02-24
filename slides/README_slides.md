@@ -72,7 +72,7 @@ https://www.crowdcast.io/e/build-your-machine
 👩‍💻Resources <br />
 - GitHub Repository - https://github.com/mridulrb/SPSS-Modeler-Flow
 - Workshop Slides - https://mridulrb.github.io/SPSS-Modeler-Flow/#/
-- Survey - ibm.biz/Bdfsbc
+- Survey - https://ibm.biz/Bdfsbc
 - Meetup page - https://www.meetup.com/IBM-Cloud-MEA/events/ 
 
 +++ {"slideshow": {"slide_type": "slide"}}
